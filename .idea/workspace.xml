@@ -1,0 +1,425 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c2440a06-33e6-4d27-a685-27d8f5d49c9b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/Burger-Shack.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Burger-Shack.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ChefClient/Chef.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Shared/Chef.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ChefClient/ChefClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ChefClient/ChefClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ChefClient/Proxy/Proxy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ChefClient/Proxy/Proxy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CustomerClient/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Shared/Customer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CustomerClient/CustomerClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CustomerClient/CustomerClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ManagerClient/Manager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ManagerClient/ManagerClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ManagerClient/ManagerClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Server/Adapter/BlockingQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Server/Adapter/BlockingQueue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Server/Adapter/IBlockingQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Server/Adapter/IBlockingQueue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Server/RemoteServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Shared/RemoteServer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Server/Server.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Server/Server.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/recipes.txt" beforeDir="false" afterPath="$PROJECT_DIR$/recipes.txt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="JUnit5 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="59" />
+    <option name="y" value="-17" />
+    <option name="width" value="1386" />
+    <option name="height" value="788" />
+  </component>
+  <component name="ProjectId" id="1TANxFM2caM396xiUg1qaZOtijC" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1582385365807" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Global Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="Server.Adapter" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\User\Desktop\Java\SDJ_2\SecoundAssigment\Burger-Shack" />
+      <recent name="C:\Users\User\Desktop\Java\SDJ_2\SecoundAssigment\Burger-Shack\src" />
+      <recent name="C:\Users\User\Desktop\Java\SDJ_2\SecoundAssigment\Burger-Shack\src\ChefClient" />
+      <recent name="C:\Users\User\Desktop\Java\SDJ_2\SecoundAssigment\Burger-Shack\src\ChefClient\Proxy" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.ChefClient">
+    <configuration name="ChefClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ChefClient.ChefClient" />
+      <module name="Burger-Shack" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Server" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Server.Server" />
+      <module name="Burger-Shack" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArrayListTest.getIndexToHighNonValid" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Burger-Shack" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Server.Adapter.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Server.Adapter" />
+      <option name="MAIN_CLASS_NAME" value="Server.Adapter.ArrayListTest" />
+      <option name="METHOD_NAME" value="getIndexToHighNonValid" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArrayListTest.getIndexToLowNonValid" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Burger-Shack" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Server.Adapter.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Server.Adapter" />
+      <option name="MAIN_CLASS_NAME" value="Server.Adapter.ArrayListTest" />
+      <option name="METHOD_NAME" value="getIndexToLowNonValid" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArrayListTest.getValidIndex" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Burger-Shack" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Server.Adapter.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Server.Adapter" />
+      <option name="MAIN_CLASS_NAME" value="Server.Adapter.ArrayListTest" />
+      <option name="METHOD_NAME" value="getValidIndex" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ChefClient" />
+        <item itemvalue="Application.Server" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c2440a06-33e6-4d27-a685-27d8f5d49c9b" name="Default Changelist" comment="" />
+      <created>1572874505340</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1572874505340</updated>
+      <workItem from="1572874506805" duration="4026000" />
+      <workItem from="1572899202075" duration="1888000" />
+      <workItem from="1572944121886" duration="11227000" />
+      <workItem from="1573210531617" duration="1385000" />
+      <workItem from="1573211957242" duration="6162000" />
+      <workItem from="1573308436575" duration="39967000" />
+      <workItem from="1574267277122" duration="631000" />
+      <workItem from="1574432389934" duration="1345000" />
+      <workItem from="1574590757931" duration="1821000" />
+      <workItem from="1574766499154" duration="2376000" />
+      <workItem from="1574855589513" duration="615000" />
+      <workItem from="1575980834456" duration="650000" />
+      <workItem from="1576885660375" duration="432000" />
+      <workItem from="1578333301977" duration="24000" />
+      <workItem from="1578402658829" duration="5347000" />
+      <workItem from="1578493449869" duration="1765000" />
+      <workItem from="1578581098790" duration="4617000" />
+      <workItem from="1578643761916" duration="4038000" />
+      <workItem from="1578910561997" duration="2596000" />
+      <workItem from="1579011533779" duration="2334000" />
+      <workItem from="1579452736545" duration="41000" />
+      <workItem from="1582385307242" duration="230000" />
+      <workItem from="1582387289744" duration="613000" />
+      <workItem from="1582538416851" duration="33000" />
+      <workItem from="1584183273963" duration="1189000" />
+      <workItem from="1584184478767" duration="1387000" />
+    </task>
+    <task id="LOCAL-00001" summary="Commited Burger">
+      <created>1572943057924</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1572943057924</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Commited Burger">
+      <created>1572944298952</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1572944298952</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Commited Burger">
+      <created>1572946073294</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1572946073294</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Commited Burger">
+      <created>1572951894505</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1572951894505</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Commited Burger">
+      <created>1572955597180</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1572955597180</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Commited Burger">
+      <created>1572955833349</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1572955833349</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Commited Burger">
+      <created>1572955941931</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1572955941931</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Commited Burger">
+      <created>1572956670400</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1572956670400</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="ArrayListTest - 2019.11.11 at 14h 14m 55s.xml">
+      <configuration name="ArrayListTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ArrayListTest - 2019.12.21 at 00h 48m 19s.xml">
+      <configuration name="ArrayListTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ArrayListTest - 2020.01.13 at 11h 24m 14s.xml">
+      <configuration name="ArrayListTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ArrayListTest_add - 2020.01.13 at 11h 27m 08s.xml">
+      <configuration name="ArrayListTest.add" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ArrayListTest_addOutOfBoundsException - 2020.01.13 at 11h 28m 16s.xml">
+      <configuration name="ArrayListTest.addOutOfBoundsException" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ArrayListTest_getIndexToLowNonValid - 2020.01.14 at 15h 27m 17s.xml">
+      <configuration name="ArrayListTest.getIndexToLowNonValid" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ArrayListTest_getValidIndex - 2020.01.14 at 15h 34m 19s.xml">
+      <configuration name="ArrayListTest.getValidIndex" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ArrayListTest_getIndexToHighNonValid - 2020.01.14 at 15h 34m 26s.xml">
+      <configuration name="ArrayListTest.getIndexToHighNonValid" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ArrayListTest_getIndexToLowNonValid - 2020.01.14 at 15h 40m 23s.xml">
+      <configuration name="ArrayListTest.getIndexToLowNonValid" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ArrayListTest_getValidIndex - 2020.01.14 at 15h 42m 31s.xml">
+      <configuration name="ArrayListTest.getValidIndex" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Commited Burger" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commited Burger" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2281" y="479" key="#Plugins" timestamp="1584184451548">
+      <screen x="1920" y="400" width="1536" height="840" />
+    </state>
+    <state x="2281" y="479" key="#Plugins/1920.400.1536.840/0.0.1920.1050@1920.400.1536.840" timestamp="1584184451548" />
+    <state width="1493" height="232" key="GridCell.Tab.0.bottom" timestamp="1584186318513">
+      <screen x="1920" y="400" width="1536" height="840" />
+    </state>
+    <state width="1493" height="232" key="GridCell.Tab.0.bottom/1920.400.1536.840/0.0.1920.1050@1920.400.1536.840" timestamp="1584186318513" />
+    <state width="1493" height="232" key="GridCell.Tab.0.center" timestamp="1584186318512">
+      <screen x="1920" y="400" width="1536" height="840" />
+    </state>
+    <state width="1493" height="232" key="GridCell.Tab.0.center/1920.400.1536.840/0.0.1920.1050@1920.400.1536.840" timestamp="1584186318512" />
+    <state width="1493" height="232" key="GridCell.Tab.0.left" timestamp="1584186318512">
+      <screen x="1920" y="400" width="1536" height="840" />
+    </state>
+    <state width="1493" height="232" key="GridCell.Tab.0.left/1920.400.1536.840/0.0.1920.1050@1920.400.1536.840" timestamp="1584186318512" />
+    <state width="1493" height="232" key="GridCell.Tab.0.right" timestamp="1584186318512">
+      <screen x="1920" y="400" width="1536" height="840" />
+    </state>
+    <state width="1493" height="232" key="GridCell.Tab.0.right/1920.400.1536.840/0.0.1920.1050@1920.400.1536.840" timestamp="1584186318512" />
+    <state x="2397" y="645" key="com.intellij.ide.util.TipDialog" timestamp="1584184502134">
+      <screen x="1920" y="400" width="1536" height="840" />
+    </state>
+    <state x="2397" y="645" key="com.intellij.ide.util.TipDialog/1920.400.1536.840/0.0.1920.1050@1920.400.1536.840" timestamp="1584184502134" />
+    <state x="2418" y="719" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1584184564804">
+      <screen x="1920" y="400" width="1536" height="840" />
+    </state>
+    <state x="2418" y="719" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/1920.400.1536.840/0.0.1920.1050@1920.400.1536.840" timestamp="1584184564804" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8.0_201</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Burger-Shack</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
